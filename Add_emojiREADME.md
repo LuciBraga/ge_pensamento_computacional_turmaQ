@@ -1,4 +1,4 @@
-# Projeto desenvolvido durante a 3º jornada no GE
+# Projeto desenvolvido durante a 3º jornada no GE 
 
 ## Pensamento Computacional no Ensino Médio
 
