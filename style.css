@@ -2,11 +2,12 @@ p{
     color:rgb(61, 42, 165);
 }
 h1 {
-	text-align: center
-
+	text-align: center;
+    font-size: 30 px
 }
 p{
    text-align: center
+   font-size: 20 px
 }
 
 #missão {
