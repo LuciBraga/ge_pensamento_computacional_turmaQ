@@ -17,7 +17,7 @@ p {
     body  {
     background: #F4BF97;
     font-size: 70px;
-    text-align: center;
+    text-align: justify;
     text-transform: uppercase;
     color: #CE5A67; }
 }
@@ -31,3 +31,6 @@ p {
 #gourmet {width: 50%;
 margin: 10px;
 padding: 10px;}
+
+.titulo-principal {background-image: linear-gradient(#ffc8c8,#f6c0ba);
+}
