@@ -1,10 +1,10 @@
 p {
-    color: CE5A66;
+    color: #CE5A66;
 }
 
 body {
     text-align: center;
-    background-color: FCF5ED;
+    background-color: #FCF5ED;
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 #titulo {
    
     body  {
-    background: F4BF97;
+    background: #F4BF97;
     font-size: 32px;
     text-align: center;
     text-transform: uppercase;
