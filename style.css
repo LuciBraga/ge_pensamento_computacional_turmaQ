@@ -15,10 +15,10 @@ p {
     padding: 20px;
     background-color: #ffafcc;
     border-bottom: 4px solid #fb6f92;
-    color: #ffffff
-    display: flex
-    justify-content: flex-star
-    align-items: center
+    color: #ffffff;
+    display: flex;
+    justify-content: flex-star;
+    align-items: center;
 }
 
 .cabecalho-imagem {
