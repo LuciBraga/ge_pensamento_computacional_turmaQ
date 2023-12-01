@@ -11,6 +11,12 @@ p {
     font-size: 100 px;
 }
 
+.cabecalho{
+    {padding: 20px;}
+    background-color: #ffafcc;
+    border-bottom: 4px solid #fb6f92;
+}
+
 #titulo {
    
     body  {
