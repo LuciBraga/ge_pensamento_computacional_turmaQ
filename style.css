@@ -11,31 +11,33 @@ p {
     font-size: 100 px;
 }
 
-.cabecalho{
-    {padding: 20px;}
+.cabecalho {
+        {
+        padding: 20px;
+    }
+
     background-color: #ffafcc;
     border-bottom: 4px solid #fb6f92;
     color: #ffffff
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
     width: 20%;
     height: 20%;
 }
 
-.cabecalho-titulo{
-padding-left: 16px;
-
-
+.cabecalho-titulo {
+    padding-left: 16px;
 }
 
 #titulo {
-   
-    body  {
-    font-size: 70px;
-    text-align: justify;
-    text-transform: uppercase;
-    color: #CE5A67; }
+
+    body {
+        font-size: 70px;
+        text-align: justify;
+        text-transform: uppercase;
+        color: #CE5A67;
+    }
 }
 
 .text {
@@ -44,9 +46,12 @@ padding-left: 16px;
     color: gray;
 }
 
-#gourmet {width: 50%;
-margin: 10px;
-padding: 10px;}
+#gourmet {
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
 
-.titulo-principal {background-image: linear-gradient(#ffc8c8,#f6c0ba);
+.titulo-principal {
+    background-image: linear-gradient(#ffc8c8, #f6c0ba);
 }
