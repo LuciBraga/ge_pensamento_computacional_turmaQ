@@ -18,6 +18,17 @@ p {
     color: #ffffff
 }
 
+.cabecalho-imagem{
+    width: 20%;
+    height: 20%;
+}
+
+.cabecalho-titulo{
+padding-left: 16px;
+
+
+}
+
 #titulo {
    
     body  {
